@@ -52,7 +52,7 @@
 			</feature>
 		</config-file>
 		
-		<framework src="LPMessagingSDK" type="podspec" spec="~> 4.1.0.0.710-Swift-5.1"/>
+		<framework src="LPMessagingSDK" type="podspec" spec="~> 5.0.1.1013-Swift-5.1"/>
 		
 		<source-file src="src/ios/LPMessagingSDKPlugin.swift" />
 		<source-file src="src/ios/LPMessagingSDKPlugin-Bridging-Header.h" />

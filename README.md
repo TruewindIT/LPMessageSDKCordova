@@ -7,7 +7,7 @@ Current Version: v1.0
 
 Running with the following versions of the LivePerson Messaging SDK
 
-+ [iOS SDK v5.1.0](https://github.com/LP-Messaging/iOS-Messaging-SDK/releases/tag/5.1.0)
++ [iOS SDK v5.0.1](https://github.com/LP-Messaging/iOS-Messaging-SDK/releases/tag/5.0.1)
 + [Android SDK v4.3.1](https://github.com/LP-Messaging/Android-Messaging-SDK/releases/tag/v4.3.1)
 
 # Installing / Getting started
